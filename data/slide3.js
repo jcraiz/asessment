@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{EA5EC57A-8B59-4F37-9C60-1DA101DCB6AB}'];loadHandler&&loadHandler(2, '<div id="spr0_4647220a"><div id="spr1_4647220a" class="kern slide"><img id="img2_4647220a" src="data/img2.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_4647220a" class="kern slide"><div id="spr3_4647220a" style="left:183.652px;top:152.634px;"><div style="width:0px;"><span id="txt0_4647220a" data-width="589.139893" style="left:64.65px;top:44.614px;">Has finalizado esta</span></div><div style="width:0px;"><span id="txt1_4647220a" data-width="288.000000" style="left:215.875px;top:109.414px;">actividad</span></div></div><div id="spr4_4647220a"><img id="img0_4647220a" src="data/img1.png" width="169" height="169" alt="Logotipo\
+\
+Descripción generada automáticamente" style="left:-0.125px;top:-0.125px;"/></div><div id="spr5_4647220a" style="left:64.881px;top:282.783px;"><img id="img1_4647220a" src="data/img8.png" width="223" height="239" alt="Icono\
+\
+Descripción generada automáticamente" style="left:-0.18px;top:0.239px;"/></div></div></div>', '{"s":[]}');})();
